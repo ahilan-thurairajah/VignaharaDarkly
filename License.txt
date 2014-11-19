@@ -1,0 +1,25 @@
+﻿<div class="License">
+   <h3>License</h3>
+   <p class="Owner">
+       <a href="http://www.vignahara.com">VIGNAHARA CORP.</a></br>
+       Copyright (c) 2014</br>
+   </p>
+  <p>
+      You are allowed to install the skin on an unlimited number of DNN websites(installations), belonging to either you or your clients. However, you shall not resell the skin or offer it for download anywhere on the internet.
+  </p>
+  <p>You are required to display the Vignahara Logo image in the footer, with the link to http://www.vignahara.com.</p>
+  <p>
+      The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+      of the Software.
+  </p>
+  <p>
+      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  </p>
+
+  <div>
+	<p>Bootstrap files from http://getbootstrap.com/ under Apache License v2.0</p>
+	<p>Bootstrap style from http://bootswatch.com/cerulean/ under MIT License</p>
+	<p>fortawesome lincense from http://fortawesome.github.io/Font-Awesome/license/ </p>
+  </div>
+</div>
+

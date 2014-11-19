@@ -1,0 +1,153 @@
+﻿@charset "UTF-8";
+@import url('bootstrap/css/bootstrap.min.css');
+@import url('font-awesome-4.2.0/css/font-awesome.min.css');
+body {
+}
+
+.glyphicon-search {
+    padding-left: 5px ;
+}
+
+            /* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  min-height: 100% ;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+form {
+  height: 100%;
+  min-height: 100% ;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+            
+/* Set the fixed height of the footer here */
+#footer {
+  height: 50px;
+  background-color: #f5f5f5;
+  color: midnightblue ; 
+}
+
+
+
+#footer a .pull-right{
+    color: steelblue ;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+#wrap > .container {
+  padding: 20px 15px 0;
+}
+.container .credit {
+  margin: 20px 0;
+}
+
+code {
+  font-size: 80%;
+}
+            
+#dnn_dnnLOGO_imgLogo {
+                width:  50px;
+                height:  50px;
+            }        
+            
+#dnn_dnnLOGO_sm_imgLogo {
+                width:  50px;
+                height:  50px;
+            }                      
+            
+#rightMenu li  { padding-top: 17px ; padding-right: 20px; padding-left: 15px;}            
+
+#footer .row .pull-right  { padding-top: 10px; text-align: right; vertical-align: middle;}
+
+.navbar-brand {
+    padding: 7px 0 0 0;
+}
+
+#link-brand {
+    color: #C6E2EE ;
+    font-size: 24px;
+}
+
+.normal {
+    color: #CCCCCC ;
+}
+
+#liSearch {
+   padding-top: 18px ;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: 600 ;
+    color: cadetblue ;
+}
+
+.footerBtn {
+    color: #C6E2EE ;
+    min-width : 100px;
+    font-weight: 400 ;
+    border: 1px solid black;
+    text-decoration: none ;
+}
+
+
+.rgRow {
+    color: black ;
+}
+
+.rgAltRow {
+    color: black ;
+}
+
+#spaceInMenuItem {
+    width: 20px
+}
+
+#dnn_dnnSearch_txtSearch {
+    border: 1px solid black ;
+    background-color: #C6E2EE ;
+}
+
+#pageEnd {
+    width: 100%; text-align: center; margin-top: 200px ;
+}
+
+
+#footerLeft {display: table;}
+
+#loginControls, #publisherLinks {
+    display: table-cell;
+    vertical-align: middle ;
+    height: 50px ;
+    text-align: left ;
+    text-decoration: none ;
+}
+
+#publisherLinks {
+    width: 50px ;
+}
+
+#footerRight {
+    top: 5px ;
+}
+
+#dnn_dnnUser_registerLink {
+    color: #C6E2EE ;
+}

@@ -1,0 +1,32 @@
+.bannerPane {
+    position: relative;
+    vertical-align: middle;
+}
+
+.contentPane {
+}
+
+
+.vhCarousel h2{
+    margin: 0;     
+    color: #1a4b76;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;   
+    font-weight: 900 ;  
+}
+.vhCarousel .item{
+    background: #2c77ba;    
+    text-align: center;
+    height: 300px !important;
+}
+.vhCarousel .carousel{
+    margin-top: 20px;
+}
+.vhCarousel {
+	margin: 20px;
+}
+
+
+
+
